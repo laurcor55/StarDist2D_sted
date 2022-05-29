@@ -1,0 +1,6 @@
+*.tif
+*.pdf
+*.png
+test.py
+/venv
+/models
